@@ -1,0 +1,16 @@
+{
+  "name": "Welcomer-bot-frinds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "HZR_H3RY",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-senpai": "^2.0.3",
+    "discord.js": "^12.5.3"
+  }
+}
